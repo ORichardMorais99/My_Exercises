@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to right, rgb(83, 220, 20), rgb(0, 134, 134), rgb(136, 96, 136), rgb(138, 99, 99));
+    font: normal 18pt Arial sans-serif;
+    color: black;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: rgba(34, 3, 3, 0.5) 3px 3px 10px;
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
